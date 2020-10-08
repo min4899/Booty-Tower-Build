@@ -2,6 +2,7 @@
 This repository stores build versions that others can try out.
 
 How to play:
+
 The player's goal is to climb as high as possible in a tower filled with treasure.
 
 The player is constantly jumping even without player input.
